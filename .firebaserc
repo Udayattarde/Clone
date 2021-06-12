@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fb-clone-fd7bb": {
+      "hosting": {
+        "Clone": [
+          "fb-clone-fd7bb"
+        ]
+      }
+    }
+  }
+}
